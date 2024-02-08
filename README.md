@@ -1,6 +1,7 @@
 ## I am studying Applied Computer Science at AGH in Cracow (currently second year). <br>
 Still trying to decide on my specialization, mabe something with embedded systems and microcontrollers, but I am not sure, yet.
 
+<p align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_title=true"
@@ -10,11 +11,9 @@ Still trying to decide on my specialization, mabe something with embedded system
     srcset="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true&hide_title=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
-  <p align="center">
     <img alt="Data about commits" src="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true&hide_title=true" />
-  </p>
 </picture>
-
+</p>
 <!--
 <picture>
   <source
