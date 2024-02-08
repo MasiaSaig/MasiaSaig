@@ -3,7 +3,7 @@ Still trying to decide on my specialization, mabe something with embedded system
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true&theme=dracula&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true" />
