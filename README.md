@@ -4,7 +4,7 @@ Still trying to decide on my specialization, mabe something with embedded system
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_title=true"
-    media="(prefers-color-scheme: light) (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true&hide_title=true&theme=dracula"
@@ -19,7 +19,7 @@ Still trying to decide on my specialization, mabe something with embedded system
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/username=MasiaSaig&size_weight=0.5&count_weight=0.5"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/username=MasiaSaig&size_weight=0.5&count_weight=0.5&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/username=MasiaSaig&size_weight=0.5&count_weight=0.5"
