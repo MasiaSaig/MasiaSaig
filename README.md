@@ -3,16 +3,17 @@ Still trying to decide on my specialization, mabe something with embedded system
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_title=true&rank_icon=precentile"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true&hide_title=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true&hide_title=true&rank_icon=precentile&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <img alt="Data about commits" src="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true" />
 </picture>
 
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MasiaSaig&size_weight=0.5&count_weight=0.5"
@@ -24,3 +25,4 @@ Still trying to decide on my specialization, mabe something with embedded system
   />
   <img alt="Data about commits" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasiaSaig&size_weight=0.5&count_weight=0.5" />
 </picture>
+--!>
