@@ -11,9 +11,4 @@ Still trying to decide on my specialization, mabe something with embedded system
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true" />
- <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/username=MasiaSaig&size_weight=0.5&count_weight=0.5"
-    media=(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/username=MasiaSaig&size_weight=0.5&count_weight=0.5 
 </picture>
