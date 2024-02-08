@@ -10,7 +10,9 @@ Still trying to decide on my specialization, mabe something with embedded system
     srcset="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true&hide_title=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
-  <img align="center" alt="Data about commits" src="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true&hide_title=true" />
+  <p align="center">
+    <img alt="Data about commits" src="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true&hide_title=true" />
+  </p>
 </picture>
 
 <!--
