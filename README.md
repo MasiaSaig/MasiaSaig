@@ -10,6 +10,10 @@ I belive, I am persistent at what I do and I try to spend my time on learning an
 ### Some projects ###
 Together with my brother, we added some features and new tab on a website, for Okocim parish. Other than that, we made a simple website hosted online, for Stowarzyszenie Okocim od Serca: https://okocim.serv00.net/.
 
+### What I plan on learning in near future ###
+I was thinking of getting to know C# together with .Net Framework, because I see it very often used in some desktop applications. So I thought it would be nice to know, how to quickly create some simple (or even some more advanced) programs to share with my friends and create their sometimes silly program ideas. <br>
+In further future I want to buy some pcb, like an arduino or raspberry pi one, just to get started and try it out. But I do not have any project ideas that would use them. I was also wondering, if using a regular circuit board would be better, as it would surly be more challanging, since I would also have to learn more about electronics and circuit design.
+
 <p align="center">
 <picture>
   <source
