@@ -5,7 +5,7 @@ My first programming language was Python. I was learninig it while I was in midd
 I wrote some websites, when I was in high school, using HTML, CSS, JavaScript and also PHP. <br>
 Currently in collage, I continue to learn C++ and so far, it's my favorite programming language, bacause I belive it has is challenging and gives me a steady ground for me to learn other programming languages. <br>
 <br>
-I belive, I am tenacious at what I do and I try to spend my time on learning and working as best as I can. 
+I belive, I am persistent at what I do and I try to spend my time on learning and working as best as I can. 
 
 ### Some projects ###
 Together with my brother, we added some features and new tab on a website, for Okocim parish. Other than that, we made a simple website hosted online, for Stowarzyszenie Okocim od Serca: https://okocim.serv00.net/.
