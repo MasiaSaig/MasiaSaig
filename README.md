@@ -10,6 +10,9 @@ I belive, I am persistent at what I do and I try to spend my time on learning an
 ### Some projects ###
 Together with my brother, we added some features and new tab on a website, for Okocim parish. Other than that, we made a simple website hosted online, for Stowarzyszenie Okocim od Serca: https://okocim.serv00.net/.
 
+### Currently ###
+I am learning Qt QML with QtQuick, for creating multiplatform applications and UI Design.
+
 ### What I plan on learning in near future ###
 <!--
 I was thinking of getting to know C# together with .Net Framework, because I see it very often used in some desktop applications. So I thought it would be nice to know, how to quickly create some simple (or even some more advanced) programs to share with my friends and create their sometimes silly application ideas. <br>
