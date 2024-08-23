@@ -8,7 +8,7 @@ Currently in collage, I continue to learn C++ and so far, it's my favorite progr
 I belive, I am persistent at what I do and I try to spend my time on learning and working as best as I can. 
 
 ### Some projects ###
-Together with my brother, we added some features and new tab on a website, for Okocim parish. Other than that, we made a simple website hosted online, for Stowarzyszenie Okocim od Serca: https://okocim.serv00.net/.
+Together with my brother, we added some features and new tab on a website, for Okocim parish. Other than that, we made a simple website hosted online, for Stowarzyszenie Okocim od Serca: https://okocimodserca.pl/.
 
 ### Currently ###
 I am learning Qt QML with QtQuick, for creating multiplatform applications and UI Design.
