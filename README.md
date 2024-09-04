@@ -32,6 +32,9 @@ In further future, I want to buy some pcb, mabe like an arduino or raspberry pi,
     <img alt="Data about commits" src="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true&hide_title=true" />
 </picture>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasiaSaig&layout=compact)
+
 <!--
 <picture>
   <source
