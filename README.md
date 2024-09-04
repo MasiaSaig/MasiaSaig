@@ -20,7 +20,10 @@ I was thinking of getting to know C# together with .Net Framework, because I see
 In further future, I want to buy some pcb, mabe like an arduino or raspberry pi, just to get started and try it out. But I do not have any project ideas, for now. I was also wondering, if using a regular circuit board would be better, as it would surly be more challanging, since I would also have to learn more about electronics and circuit design.
 
 <p align="center">
+<picture>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasiaSaig&layout=compact)
+</picture>
+  
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_title=true"
