@@ -21,6 +21,7 @@ In further future, I want to buy some pcb, mabe like an arduino or raspberry pi,
 
 <p align="center">
 <picture>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasiaSaig&layout=compact)
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
@@ -33,7 +34,7 @@ In further future, I want to buy some pcb, mabe like an arduino or raspberry pi,
 </picture>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasiaSaig&layout=compact)
+
 
 <!--
 <picture>
