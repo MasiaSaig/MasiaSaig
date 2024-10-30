@@ -11,10 +11,10 @@ I belive, I am persistent at what I do and I try to spend my time on learning an
 Together with my brother, we added some features and new tab on a website, for Okocim parish. Other than that, we made a simple website hosted online, for Stowarzyszenie Okocim od Serca: https://okocimodserca.pl/.
 
 ### Currently ###
-- I am learning Qt QML with QtQuick, for creating multiplatform applications and UI Design. 
-- Started learning about microcontrollers
+- Learning Qt QML with QtQuick, for creating multiplatform applications and UI Design. 
+- Started studying, about microcontrollers
 - Making a recap information, about databases, this time using postgreSQL instead of MySQL
-- Learning Java :\
+- Studying Java :\
 
 <!-- 
 ### Future plans ### -->
