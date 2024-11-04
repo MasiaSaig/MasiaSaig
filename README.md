@@ -14,7 +14,7 @@ Together with my brother, we added some features and new tab on a website, for O
 - Learning Qt QML with QtQuick, for creating multiplatform applications and UI Design. 
 - Started studying, about microcontrollers, together with embedded C.
 - Making a recap information, about databases, this time using postgreSQL instead of MySQL.
-- Studying Java :\
+- Studying Java
 
 <!-- 
 ### Future plans ### -->
