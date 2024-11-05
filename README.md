@@ -1,5 +1,5 @@
 ## I am studying Applied Computer Science at AGH in Cracow (currently third year). <br>
-Still trying to decide on my specialization, mabe something with embedded systems and microcontrollers, or something closer to software development, but I am not completely sure, yet. <br>
+Still trying to decide on my specialization, I am leaning towards embedded systems and microcontrollers, but also thinking about something closer to software development, I am not completely sure, yet. <br>
 <br>
 My first programming language was Python. I started learning it while I was in middle school, later on I didn't use it much, so I forgot many things about it. <br>
 I wrote some websites, when I was in high school, using HTML, CSS, JavaScript and also PHP. <br>
