@@ -1,8 +1,5 @@
 ## I am studying Applied Computer Science at AGH in Cracow (currently third year). <br>
 
-### Some projects ###
-Together with my brother, we added some features and new tab on a website, for Okocim parish. Other than that, we made a simple website hosted online, for Stowarzyszenie Okocim od Serca: https://okocimodserca.pl/.
-
 ### Currently ###
 - Learning Qt QML with QtQuick, for creating multiplatform applications and UI Design. 
 - Started studying, about microcontrollers, together with embedded C.
