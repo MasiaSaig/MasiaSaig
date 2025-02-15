@@ -1,18 +1,34 @@
 ## I am an Applied Computer Science student (currently third year) at AGH in Cracow. ## <br>
 
-### Currently ###
-- Learning Qt QML with QtQuick, for creating multiplatform applications and UI Design. 
-- Started studying, about microcontrollers, together with embedded C.
-- Making a recap information, about databases, this time using postgreSQL instead of MySQL.
-- Studying Java
+Checkout my website on Github Pages: [MasiaSaig](https://masiasaig.github.io/)
 
-## My Skills
+## Contact ##
+<a href="www.linkedin.com/in/maciej-lukasz-mueller">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:mullermaciej12@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+## Skills ##
+<h3 align="center">Languages, libraries and frameworks</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,git" />
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,qt,python,html,css,js,php,java,jquery" />
   </a>
 </p>
 
+<h3 align="center">Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cmake,figma,latex,mysql,postgres" /> <br>
+  </a>
+</p>
+
+<h3 align="center">IDEs</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vim" />
+  </a>
+</p>
+
+## Statistics ##
 <!-- 
 ### Future plans ### -->
 <!--
