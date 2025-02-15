@@ -1,10 +1,18 @@
-## I am studying Applied Computer Science at AGH in Cracow (currently third year). <br>
+## I am an Applied Computer Science student (currently third year) at AGH in Cracow. ## <br>
 
 ### Currently ###
 - Learning Qt QML with QtQuick, for creating multiplatform applications and UI Design. 
 - Started studying, about microcontrollers, together with embedded C.
 - Making a recap information, about databases, this time using postgreSQL instead of MySQL.
 - Studying Java
+
+<p>My Skills</p>
+<hr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,c++,git" />
+  </a>
+</p>
 
 <!-- 
 ### Future plans ### -->
