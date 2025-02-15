@@ -39,14 +39,12 @@ In further future, I want to buy some pcb, mabe like an arduino or raspberry pi,
 -->
 <p align="center">
   <img alt="Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasiaSaig&layout=compact&bg_color=282a36&text_color=f8f8f2&title_color=f8f8f2" />
-</p>
-<p align="center">
   <picture>
-    <source
+    <source display="inline-block"
       srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_title=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <source
+    <source display="inline-block"
       srcset="https://github-readme-stats.vercel.app/api?username=MasiaSaig&show_icons=true&hide_title=true&theme=dracula"
       media="(prefers-color-scheme: dark)"
     />
