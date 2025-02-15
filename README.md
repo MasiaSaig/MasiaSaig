@@ -6,7 +6,7 @@
 - Making a recap information, about databases, this time using postgreSQL instead of MySQL.
 - Studying Java
 
-<p>My Skills</p>
+## My Skills
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
