@@ -1,4 +1,4 @@
-## I am an Applied Computer Science student (currently third year) at AGH University in Cracow.
+## Applied Computer Science student (currently third year) at AGH University in Cracow.
 
 Checkout my website on Github Pages: [MasiaSaig](https://masiasaig.github.io/)
 
