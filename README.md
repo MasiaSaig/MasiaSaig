@@ -1,6 +1,6 @@
-## Applied Computer Science student (currently third year) at AGH University in Cracow.
+# Applied Computer Science student (third year) at AGH University.
 
-Checkout my website on Github Pages: [MasiaSaig](https://masiasaig.github.io/)
+### Checkout my website on Github Pages: [MasiaSaig](https://masiasaig.github.io/)
 
 ## Contact ##
 <a href="www.linkedin.com/in/maciej-lukasz-mueller">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
