@@ -6,26 +6,37 @@ Checkout my website on Github Pages: [MasiaSaig](https://masiasaig.github.io/)
 <a href="www.linkedin.com/in/maciej-lukasz-mueller">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:mullermaciej12@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-## Skills ##
+## Technologies I use ##
 <h3 align="center">Languages, libraries and frameworks</h3>
 <p align="center">
-  <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,qt,python,html,css,js,php,java,jquery" />
-  </a>
+  <a target="_blank" href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a target="_blank" href="https://devdocs.io/cpp/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a target="_blank" href="https://devdocs.io/qt/"><img src="https://skillicons.dev/icons?i=qt" /></a>
+  <a target="_blank" href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a target="_blank" href="https://devdocs.io/html/"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a target="_blank" href="https://devdocs.io/css/"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a target="_blank" href="https://devdocs.io/javascript/"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a target="_blank" href="https://devdocs.io/php/"><img src="https://skillicons.dev/icons?i=php" /></a>
+  <a target="_blank" href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a target="_blank" href="https://devdocs.io/jquery/"><img src="https://skillicons.dev/icons?i=jquery" /></a>
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cmake,figma,latex,mysql,postgres" /> <br>
-  </a>
+  <a target="_blank" href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a target="_blank" href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" /></a>
+  <a target="_blank" href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a target="_blank" href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" /></a>
+  <a target="_blank" href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a target="_blank" href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 </p>
 
 <h3 align="center">IDEs</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vim" />
-  </a>
+  <a target="_blank" href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
+  <a target="_blank" href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a target="_blank" href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" /></a>
+  <a target="_blank" href="https://doc.qt.io/qtcreator/"><img src="https://skillicons.dev/icons?i=qt" /></a>
 </p>
 
 ## Statistics ##
