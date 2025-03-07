@@ -25,8 +25,6 @@
 <p align="center">
   <a target="_blank" href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a target="_blank" href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" /></a>
-  <a target="_blank" href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
-  <a target="_blank" href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" /></a>
   <a target="_blank" href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
   <a target="_blank" href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 </p>
