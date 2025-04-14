@@ -17,7 +17,7 @@
   <a target="_blank" href="https://devdocs.io/css/"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a target="_blank" href="https://devdocs.io/javascript/"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a target="_blank" href="https://devdocs.io/php/"><img src="https://skillicons.dev/icons?i=php" /></a>
-  <a target="_blank" href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a>
+<!--   <a target="_blank" href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a> -->
   <a target="_blank" href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 </p>
 
