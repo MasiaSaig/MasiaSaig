@@ -7,7 +7,7 @@
 <a href="mailto:mullermaciej12@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ## Technologies I use ##
-<h3 align="center">Languages, libraries and frameworks</h3>
+<h3 align="center">Languages, libraries, frameworks, etc.</h3>
 <p align="center">
   <a target="_blank" href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c" /></a>
   <a target="_blank" href="https://devdocs.io/cpp/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
@@ -18,13 +18,13 @@
   <a target="_blank" href="https://devdocs.io/javascript/"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a target="_blank" href="https://devdocs.io/php/"><img src="https://skillicons.dev/icons?i=php" /></a>
   <a target="_blank" href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a target="_blank" href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
   <a target="_blank" href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a target="_blank" href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" /></a>
-  <a target="_blank" href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 </p>
 
 <h3 align="center">IDEs</h3>
