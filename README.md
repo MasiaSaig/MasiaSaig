@@ -9,31 +9,31 @@
 ## Technologies I use ##
 <h3 align="center">Languages, libraries, frameworks, etc.</h3>
 <p align="center">
-  <a target="_blank" href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c" /></a>
-  <a target="_blank" href="https://devdocs.io/cpp/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
-  <a target="_blank" href="https://devdocs.io/qt/"><img src="https://skillicons.dev/icons?i=qt" /></a>
-  <a target="_blank" href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
-  <a target="_blank" href="https://devdocs.io/html/"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a target="_blank" href="https://devdocs.io/css/"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a target="_blank" href="https://devdocs.io/javascript/"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a target="_blank" href="https://devdocs.io/php/"><img src="https://skillicons.dev/icons?i=php" /></a>
+  <a target="_blank" href="https://devdocs.io/c/" title="C"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a target="_blank" href="https://devdocs.io/cpp/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a target="_blank" href="https://devdocs.io/qt/" title="Qt"><img src="https://skillicons.dev/icons?i=qt" /></a>
+  <a target="_blank" href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a target="_blank" href="https://devdocs.io/html/" title="HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a target="_blank" href="https://devdocs.io/css/" title="CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a target="_blank" href="https://devdocs.io/javascript/" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a target="_blank" href="https://devdocs.io/php/" title="PHP"><img src="https://skillicons.dev/icons?i=php" /></a>
 <!--   <a target="_blank" href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a> -->
-  <a target="_blank" href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
-  <a target="_blank" href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a>
+  <a target="_blank" href="https://www.postgresql.org/" title="PostgreSQL><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a target="_blank" href="https://vuejs.org/" title="Vue"><img src="https://skillicons.dev/icons?i=vue" /></a>
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <a target="_blank" href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a target="_blank" href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" /></a>
+  <a target="_blank" href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a target="_blank" href="https://cmake.org/" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" /></a>
 </p>
 
 <h3 align="center">IDEs</h3>
 <p align="center">
-  <a target="_blank" href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
-  <a target="_blank" href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a target="_blank" href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" /></a>
-  <a target="_blank" href="https://doc.qt.io/qtcreator/"><img src="https://skillicons.dev/icons?i=qt" /></a>
+  <a target="_blank" href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
+  <a target="_blank" href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a target="_blank" href="https://www.vim.org/" title="Vim"><img src="https://skillicons.dev/icons?i=vim" /></a>
+  <a target="_blank" href="https://doc.qt.io/qtcreator/" title="Qt Creator"><img src="https://skillicons.dev/icons?i=qt" /></a>
 </p>
 
 ## Statistics ##
