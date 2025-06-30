@@ -18,7 +18,7 @@
   <a target="_blank" href="https://devdocs.io/javascript/" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a target="_blank" href="https://devdocs.io/php/" title="PHP"><img src="https://skillicons.dev/icons?i=php" /></a>
 <!--   <a target="_blank" href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a> -->
-  <a target="_blank" href="https://vuejs.org/" title="Vue"><img src="https://skillicons.dev/icons?i=vue" /></a>
+<!--   <a target="_blank" href="https://vuejs.org/" title="Vue"><img src="https://skillicons.dev/icons?i=vue" /></a> -->
 </p>
 
 <h3 align="center">Tools</h3>
