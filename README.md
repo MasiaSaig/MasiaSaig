@@ -25,7 +25,7 @@
 <p align="center">
   <a target="_blank" href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a target="_blank" href="https://cmake.org/" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" /></a>
-  <a target="_blank" href="https://www.postgresql.org/" title="PostgreSQL><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a target="_blank" href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 </p>
 
 <h3 align="center">IDEs</h3>
