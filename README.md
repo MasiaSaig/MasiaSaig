@@ -19,6 +19,7 @@
   <a target="_blank" href="https://devdocs.io/php/"><img src="https://skillicons.dev/icons?i=php" /></a>
 <!--   <a target="_blank" href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a> -->
   <a target="_blank" href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a target="_blank" href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a>
 </p>
 
 <h3 align="center">Tools</h3>
