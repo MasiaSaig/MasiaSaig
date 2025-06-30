@@ -18,7 +18,6 @@
   <a target="_blank" href="https://devdocs.io/javascript/" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a target="_blank" href="https://devdocs.io/php/" title="PHP"><img src="https://skillicons.dev/icons?i=php" /></a>
 <!--   <a target="_blank" href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a> -->
-  <a target="_blank" href="https://www.postgresql.org/" title="PostgreSQL><img src="https://skillicons.dev/icons?i=postgres" /></a>
   <a target="_blank" href="https://vuejs.org/" title="Vue"><img src="https://skillicons.dev/icons?i=vue" /></a>
 </p>
 
@@ -26,6 +25,7 @@
 <p align="center">
   <a target="_blank" href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a target="_blank" href="https://cmake.org/" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" /></a>
+  <a target="_blank" href="https://www.postgresql.org/" title="PostgreSQL><img src="https://skillicons.dev/icons?i=postgres" /></a>
 </p>
 
 <h3 align="center">IDEs</h3>
